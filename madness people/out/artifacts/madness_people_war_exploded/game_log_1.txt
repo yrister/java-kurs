@@ -1,0 +1,693 @@
+Dec 09, 2017 8:25:59 PM com.madnes.GameRuntime start
+INFO: 
+Start  game #1
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Start  game #2
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 1
+id: 1
+position(x: 439.7853217041749, y: 115.18172779498846)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 1
+id: 2
+position(x: 723.1455325522452, y: 330.4383119393362)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 1
+id: 3
+position(x: 402.6018760423443, y: 244.353751250741)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 4
+position(x: 812.879641585222, y: 412.19157271661237)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 5
+position(x: 441.72665368480466, y: 107.06783797247076)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 6
+position(x: 573.0963611667921, y: 446.0251716059283)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 7
+position(x: 130.4670303438486, y: 337.6822783017617)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 8
+position(x: 799.4299261553319, y: 420.8144792807114)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 3
+id: 9
+position(x: 311.36762925086816, y: 53.55535885403928)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 3
+id: 10
+position(x: 458.19294831216314, y: 153.2938606801472)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 3
+id: 11
+position(x: 799.5886046861499, y: 396.1330768671873)
+energy: 150.0
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 1
+other agent id: 5
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 1
+other agent id: 10
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 4
+other agent id: 11
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 5
+other agent id: 10
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 8
+other agent id: 11
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 782.961487922589, y: 214.1575920419644)
+energy: 30.161716071663083
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 1
+other agent id: 10
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 5
+other agent id: 10
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 5
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 5
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 2
+other agent id: 11
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 2
+other agent id: 8
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 2
+other agent id: 11
+
+Dec 09, 2017 8:26:01 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 2
+other agent id: 11
+
+Dec 09, 2017 8:26:02 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 2
+other agent id: 11
+
+Dec 09, 2017 8:26:02 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 2
+other agent id: 11
+
+Dec 09, 2017 8:26:02 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 2
+other agent id: 8
+
+Dec 09, 2017 8:26:02 PM com.madnes.Field removeWeekAgents
+INFO: 
+Agent dead
+agent id: 2
+
+Dec 09, 2017 8:26:02 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 602.9982228680317, y: 232.61342845387023)
+energy: 25.71286819573162
+
+Dec 09, 2017 8:26:03 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 8
+other agent id: 10
+
+Dec 09, 2017 8:26:03 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 8
+other agent id: 10
+
+Dec 09, 2017 8:26:03 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 8
+other agent id: 10
+
+Dec 09, 2017 8:26:03 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 6
+other agent id: 11
+
+Dec 09, 2017 8:26:03 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 418.4772347338423, y: 557.7583501801242)
+energy: 25.848104389384375
+
+Dec 09, 2017 8:26:03 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 9
+
+Dec 09, 2017 8:26:04 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 1
+other agent id: 11
+
+Dec 09, 2017 8:26:04 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 11
+
+Dec 09, 2017 8:26:04 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 542.6728817159121, y: 454.4114015027707)
+energy: 33.08993773861064
+
+Dec 09, 2017 8:26:05 PM com.madnes.Field removeWeekAgents
+INFO: 
+Agent dead
+agent id: 8
+
+Dec 09, 2017 8:26:05 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 6
+other agent id: 11
+
+Dec 09, 2017 8:26:05 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 6
+
+Dec 09, 2017 8:26:05 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 1
+other agent id: 6
+
+Dec 09, 2017 8:26:05 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 7
+
+Dec 09, 2017 8:26:05 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 834.7378424099882, y: 405.4510474213797)
+energy: 35.94221923488256
+
+Dec 09, 2017 8:26:06 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 9
+
+Dec 09, 2017 8:26:06 PM com.madnes.Field removeWeekAgents
+INFO: 
+Agent dead
+agent id: 3
+
+Dec 09, 2017 8:26:06 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 121.12669392148146, y: 186.4864714313927)
+energy: 33.79455641921178
+
+Dec 09, 2017 8:26:06 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 1
+other agent id: 11
+
+Dec 09, 2017 8:26:06 PM com.madnes.Field removeWeekAgents
+INFO: 
+Agent dead
+agent id: 1
+
+Dec 09, 2017 8:26:07 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 9
+artifact energy: 30.161716071663083
+
+Dec 09, 2017 8:26:07 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 6
+other agent id: 9
+
+Dec 09, 2017 8:26:07 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 6
+other agent id: 9
+
+Dec 09, 2017 8:26:07 PM com.madnes.Field removeWeekAgents
+INFO: 
+Agent dead
+agent id: 6
+
+Dec 09, 2017 8:26:07 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 4
+other agent id: 10
+
+Dec 09, 2017 8:26:07 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 492.3786552324612, y: 211.74757914514754)
+energy: 36.0223643398786
+
+Dec 09, 2017 8:26:07 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 5
+artifact energy: 35.94221923488256
+
+Dec 09, 2017 8:26:07 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 4
+other agent id: 10
+
+Dec 09, 2017 8:26:08 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 4
+other agent id: 10
+
+Dec 09, 2017 8:26:08 PM com.madnes.Field removeWeekAgents
+INFO: 
+Agent dead
+agent id: 4
+
+Dec 09, 2017 8:26:08 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 231.77155714202195, y: 412.14478445818065)
+energy: 39.984062217834754
+
+Dec 09, 2017 8:26:08 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 11
+artifact energy: 36.0223643398786
+
+Dec 09, 2017 8:26:09 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 461.121100354975, y: 104.66909491586708)
+energy: 31.38599198525351
+
+Dec 09, 2017 8:26:09 PM com.madnes.Field removeWeekAgents
+INFO: 
+Agent dead
+agent id: 10
+
+Dec 09, 2017 8:26:10 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 5
+artifact energy: 33.08993773861064
+
+Dec 09, 2017 8:26:10 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 331.2249958992949, y: 347.6660834665499)
+energy: 22.062399756759003
+
+Dec 09, 2017 8:26:10 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 9
+artifact energy: 22.062399756759003
+
+Dec 09, 2017 8:26:10 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 9
+artifact energy: 39.984062217834754
+
+Dec 09, 2017 8:26:11 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 556.5159426371896, y: 101.2433128125672)
+energy: 31.63879533361842
+
+Dec 09, 2017 8:26:11 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 191.06079552371017, y: 230.26729223943946)
+energy: 27.673936168471975
+
+Dec 09, 2017 8:26:12 PM com.madnes.Field removeWeekAgents
+INFO: 
+Agent dead
+agent id: 11
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Start  game #3
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 1
+id: 1
+position(x: 323.5994654614219, y: 453.28607143041927)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 1
+id: 2
+position(x: 510.82911125223495, y: 46.89007592682576)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 1
+id: 3
+position(x: 788.0579268897853, y: 523.3319761950931)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 4
+position(x: 105.68838145231923, y: 494.6929920973265)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 5
+position(x: 556.7237441652157, y: 149.28123538614244)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 6
+position(x: 744.6460094929279, y: 372.5753866520104)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 7
+position(x: 619.7153162589467, y: 251.73476072511755)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 2
+id: 8
+position(x: 798.3053776090886, y: 223.5791735545517)
+energy: 149.85
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 3
+id: 9
+position(x: 772.3941917455155, y: 37.64322464137169)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 3
+id: 10
+position(x: 335.8718561162433, y: 204.9929801523899)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameRuntime start
+INFO: 
+Create agent
+group: 3
+id: 11
+position(x: 740.2522015343828, y: 128.86097597540794)
+energy: 150.0
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 682.079294319202, y: 171.55108992792208)
+energy: 34.00962620012094
+
+Dec 09, 2017 8:26:12 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 11
+artifact energy: 34.00962620012094
+
+Dec 09, 2017 8:26:13 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 5
+other agent id: 9
+
+Dec 09, 2017 8:26:13 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 6
+
+Dec 09, 2017 8:26:13 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 1
+other agent id: 10
+
+Dec 09, 2017 8:26:13 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 483.8540113537038, y: 405.8508441884889)
+energy: 33.8611491971006
+
+Dec 09, 2017 8:26:14 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 11
+artifact energy: 33.8611491971006
+
+Dec 09, 2017 8:26:15 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 6
+other agent id: 10
+
+Dec 09, 2017 8:26:15 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 10
+
+Dec 09, 2017 8:26:15 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 782.8681714878486, y: 101.8524375494967)
+energy: 31.689774864097515
+
+Dec 09, 2017 8:26:15 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 5
+artifact energy: 31.689774864097515
+
+Dec 09, 2017 8:26:15 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 1
+other agent id: 9
+
+Dec 09, 2017 8:26:15 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 4
+other agent id: 11
+
+Dec 09, 2017 8:26:16 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 2
+other agent id: 9
+
+Dec 09, 2017 8:26:16 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 6
+other agent id: 10
+
+Dec 09, 2017 8:26:16 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 1
+other agent id: 9
+
+Dec 09, 2017 8:26:16 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 677.0817905950148, y: 273.5281614741696)
+energy: 27.608366247317143
+
+Dec 09, 2017 8:26:16 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 3
+other agent id: 10
+
+Dec 09, 2017 8:26:17 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 4
+other agent id: 11
+
+Dec 09, 2017 8:26:18 PM com.madnes.GameController run
+INFO: 
+Create artifact
+position(x: 293.1162264785519, y: 111.12202612891147)
+energy: 38.098478163226105
+
+Dec 09, 2017 8:26:18 PM com.madnes.GameController interactWithArtifact
+INFO: 
+Agent find artifact
+agent id: 7
+artifact energy: 38.098478163226105
+
+Dec 09, 2017 8:26:18 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 4
+other agent id: 11
+
+Dec 09, 2017 8:26:18 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 4
+other agent id: 11
+
+Dec 09, 2017 8:26:18 PM com.madnes.GameController interactWithAgent
+INFO: 
+Agent hit other agent
+agent id: 4
+other agent id: 11
+
+Dec 09, 2017 8:26:18 PM com.madnes.Field removeWeekAgents
+INFO: 
+Agent dead
+agent id: 4
+
+Dec 09, 2017 8:26:18 PM com.madnes.GameRuntime stop
+INFO: 
+Stop  game #3
+

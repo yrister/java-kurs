@@ -1,0 +1,56 @@
+body {
+    background-color: #EDFFEC;
+}
+
+td {
+    text-align: center;
+}
+table {
+    color: cornflowerblue;
+}
+
+tr.border_bottom td {
+    border-bottom: 1pt solid black;
+    border-color: slategrey;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+}
+
+button {
+    width: 140px;
+    height: 45px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: cornflowerblue;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 1.3rem;
+    display: block;
+}
+
+button:hover {
+    box-shadow: 1px 1px 1px #000;
+}
+
+div.gameinfo {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+div.control {
+    align-items: center;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    color: #DDD;
+}
